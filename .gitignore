@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+.buildozer/
+bin/
+
+factory_backup_*.json
+
+.venv/
+venv/
+
+.idea/
+.vscode/
+
+.DS_Store
